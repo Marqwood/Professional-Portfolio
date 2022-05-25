@@ -1,2 +1,3 @@
 # Professional-Portfolio
-New file 3
+ This portfolio is still under construction.
+ Project will be regularly updated.
